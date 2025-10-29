@@ -3,6 +3,8 @@ import './App.css'
 import Navbar from './assets/Navbar'
 import Recomanded from './assets/Recomanded';
 import Featchdata from './assets/Featchdata';
+import Footer from './assets/Footer';
+
 
 
 
@@ -29,6 +31,7 @@ function App() {
             ))
           }
         </div>
+        <Footer/>
       </div>
     </>
   )
